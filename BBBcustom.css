@@ -1,11 +1,11 @@
-:root {
-  --loader-bg:#f05a1a;
+:root{
+  --loader-bg:#fff!important;
 }
 
-.overlay--1aTlbi {
-  background-color:#f05a1a!important;
+.overlay--1aTlbi{
+  background-color:#fff!important;
 }
 
-body {
-  background-color:#f05a1a!important;
+body{
+  background-color:#fff!important;
 }
